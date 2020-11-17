@@ -15,6 +15,7 @@
 		793B0BB52564641C003CB099 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793B0BB32564641C003CB099 /* LaunchScreen.storyboard */; };
 		793B0BC02564641C003CB099 /* N_iOS_2020_Homework_2_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793B0BBF2564641C003CB099 /* N_iOS_2020_Homework_2_2Tests.swift */; };
 		793B0BCB2564641D003CB099 /* N_iOS_2020_Homework_2_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793B0BCA2564641D003CB099 /* N_iOS_2020_Homework_2_2UITests.swift */; };
+		79B8E622256469F5003FE1D0 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79B8E621256469F5003FE1D0 /* View.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		793B0BC62564641D003CB099 /* N-iOS-2020-Homework-2.2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "N-iOS-2020-Homework-2.2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		793B0BCA2564641D003CB099 /* N_iOS_2020_Homework_2_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = N_iOS_2020_Homework_2_2UITests.swift; sourceTree = "<group>"; };
 		793B0BCC2564641D003CB099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79B8E621256469F5003FE1D0 /* View.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				793B0BB12564641C003CB099 /* Assets.xcassets */,
 				793B0BB32564641C003CB099 /* LaunchScreen.storyboard */,
 				793B0BB62564641C003CB099 /* Info.plist */,
+				79B8E621256469F5003FE1D0 /* View.xib */,
 			);
 			path = "N-iOS-2020-Homework-2.2";
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79B8E622256469F5003FE1D0 /* View.xib in Resources */,
 				793B0BB52564641C003CB099 /* LaunchScreen.storyboard in Resources */,
 				793B0BB22564641C003CB099 /* Assets.xcassets in Resources */,
 				793B0BB025646419003CB099 /* Main.storyboard in Resources */,
